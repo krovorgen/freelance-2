@@ -6,7 +6,8 @@
     "homepage": "",
     "scripts": {
         "slint": "stylelint \"**/*.scss\"",
-        "deploy": "gh-pages -d app"
+        "deploy": "gh-pages -d app",
+        "stylelint:fix": "stylelint \"**/*{.css,.scss}\" --fix"
     },
     "author": "",
     "license": "ISC",
