@@ -1,6 +1,6 @@
-const deadlineV1 = '2021-04-05';
-const deadlineV2 = '2021-04-12';
-const change = '11';
+const deadlineV1 = '2021-04-15';
+const deadlineV2 = '2021-04-22';
+const change = '';
 
 setClockV1('.timer__v1', deadlineV1);
 setClockV2('.timer__v2', deadlineV2);
